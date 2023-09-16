@@ -1,2 +1,3 @@
 I have added a new file.
 I am adding this line from branch Feature-A :)
+Editing this file for testing Rebasing.
