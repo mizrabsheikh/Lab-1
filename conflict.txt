@@ -1,1 +1,2 @@
 I will create a conflict in this file!
+This line was added from conflict branch :)
